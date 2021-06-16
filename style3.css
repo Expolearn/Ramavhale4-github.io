@@ -1,0 +1,21 @@
+h2 {
+    position: relative;
+    padding-bottom: absolute;
+    margin-bottom: 10px;
+}
+
+h2:after {
+    content: '';
+    position: absolute;
+    left: 05%;
+    bottom: 0;
+    transform: translateX(-50%);
+    height: 4px;
+    width: 130px;
+    border-radius: 2px;
+    background-color: #ffee00;
+}
+
+body {
+    background-color: #1abc9c !important;
+}
