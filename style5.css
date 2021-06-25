@@ -44,10 +44,10 @@ body {
 }
 
 .card {
-    padding: 8%;
+    padding: 20%;
     padding-top: 35px;
     margin-top: 60px;
-    margin-bottom: 80px
+    margin-bottom: 100px
 }
 
 .inner {

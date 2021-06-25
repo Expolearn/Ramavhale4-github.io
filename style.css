@@ -8,6 +8,10 @@ body {
     padding: 0;
 }
 
+.text-white {
+    color: #fff !important;
+}
+
 i {
     margin-right: 10px;
 }
@@ -17,7 +21,7 @@ i {
 
 .navbar-logo {
     padding: 15px;
-    color: #fff;
+    color: rgb(255, 255, 255);
 }
 
 .navbar-toggler {
